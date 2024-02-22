@@ -2,11 +2,11 @@
 sequenceDiagram
     participant ROSNode
     participant TebPlannerROS
-    participant OtherComponents
     participant costmap_ros
     participant odom_helper
     participant planner
     participant visualization
+    participant OtherComponents
 
     Note over ROSNode: Initialization
 
