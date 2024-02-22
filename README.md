@@ -1,3 +1,4 @@
+```mermaid
 sequenceDiagram
     participant ROSNode
     participant TebPlannerROS
